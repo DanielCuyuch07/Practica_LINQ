@@ -1,0 +1,7 @@
+D:\Proyectos2024\Cursos\LINQ\Parte1\LINQ1\bin\Debug\LINQ1.exe.config
+D:\Proyectos2024\Cursos\LINQ\Parte1\LINQ1\bin\Debug\LINQ1.exe
+D:\Proyectos2024\Cursos\LINQ\Parte1\LINQ1\bin\Debug\LINQ1.pdb
+D:\Proyectos2024\Cursos\LINQ\Parte1\LINQ1\obj\Debug\LINQ1.csproj.AssemblyReference.cache
+D:\Proyectos2024\Cursos\LINQ\Parte1\LINQ1\obj\Debug\LINQ1.csproj.CoreCompileInputs.cache
+D:\Proyectos2024\Cursos\LINQ\Parte1\LINQ1\obj\Debug\LINQ1.exe
+D:\Proyectos2024\Cursos\LINQ\Parte1\LINQ1\obj\Debug\LINQ1.pdb
